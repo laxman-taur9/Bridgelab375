@@ -3,3 +3,6 @@ chatt
 acb
 sas
 vdc
+dark mode
+color
+video
